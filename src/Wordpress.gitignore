@@ -26,10 +26,10 @@
 /*
 !/wp-content
 
-	/wp-content/*
+/wp-content/*
 
-		!/wp-content/plugins
-		/wp-content/plugins/hello.php
+!/wp-content/plugins
+/wp-content/plugins/hello.php
 
-		!/wp-content/themes
-		/wp-content/themes/twenty*/
+!/wp-content/themes
+/wp-content/themes/twenty*/

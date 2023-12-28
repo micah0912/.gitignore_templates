@@ -49,9 +49,9 @@ git config core.excludesfile %__path_to_file__%
 <br>
 
 <p style="float: left;">
-	<a href="https://paypal.me/micaht0912" target="_blank"><img src="https://raw.githubusercontent.com/etrotech/Spairaru.Bash/master/__readme__/ast/m-paypal.jpg" alt="Paypal" style="width: 24%; "></a>
-	<a href="" target="_blank"><img src="https://raw.githubusercontent.com/etrotech/Spairaru.Bash/master/__readme__/ast/m-alipay.jpg" alt="Alipay" style=" width: 24%;"></a>
-	<a href="" target="_blank"><img src="https://raw.githubusercontent.com/etrotech/Spairaru.Bash/master/__readme__/ast/m-wechat.jpg" alt="Wechat" style="width: 24%;"></a>
+	<a href="https://paypal.me/micaht0912" target="_blank"><img src="https://raw.githubusercontent.com/micah0912/M/master/__readme__/ast/m-paypal.jpg" alt="Paypal" style="width: 24%; "></a>
+	<a href="" target="_blank"><img src="https://raw.githubusercontent.com/micah0912/M/master/__readme__/ast/m-alipay.jpg" alt="Alipay" style=" width: 24%;"></a>
+	<a href="" target="_blank"><img src="https://raw.githubusercontent.com/micah0912/M/master/__readme__/ast/m-wechat.jpg" alt="Wechat" style="width: 24%;"></a>
 </p>
 
 <br>
